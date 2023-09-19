@@ -405,11 +405,11 @@ section .title::after{
 }
 
 .skills .skills-content .right .html::before {
-    width: 80%;
+    width: 100%;
 }
 
 .skills .skills-content .right .css::before {
-    width: 60%;
+    width: 100%;
 }
 
 .skills .skills-content .right .js::before {
